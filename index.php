@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-
+ 
 <head> 
 <title> Message </title> 
 <link href = "../css/Message.css" type="text/css" rel="stylesheet" />
