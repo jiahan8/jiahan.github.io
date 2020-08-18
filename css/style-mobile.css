@@ -1,0 +1,94 @@
+@media only screen and (max-device-width: 480px) {
+
+.arrowkeys-hint {
+	display: none !important;
+}
+
+.mt-15-mobile {
+  margin-top: 15%!important; /*such a hack I know TODO fix*/
+}
+
+ .card {
+ 	margin-left: 5% !important;
+ }
+
+ .card-content {
+ 	font-size: 5vw !important;
+    line-height: 2em;
+
+ }
+
+#about-me-content {
+ 	font-size: 4vw !important;
+ }
+
+ .card-title {
+ 	font-size: 9vw !important;
+ 	left: 10%;
+ }
+
+#linebreak {
+	display: none;
+}
+
+nav {
+	display: none !important;
+}
+
+.reveal, body > div > div.slides > section.present {
+	height: 100% !important;
+	top: 0 !important;
+}
+
+.reveal .controls {
+	transform: initial !important;
+}
+
+section .title #name {
+  display: inline-block !important;
+ }
+
+.section-landing-wrapper {
+	font-size: 6vw !important;
+	width: 80%;
+}
+
+.section-landing-wrapper h2 {
+	font-size: 10vw !important;
+}
+
+.card-content > span:nth-child(2) {
+    font-size: 4vw !important;
+}    
+
+#title-description {
+  font-size: 4vw !important;
+}
+
+.full-width-on-mobile {
+  display: initial;
+  width: 100%;
+}
+
+#education-item > .card-content > .col {
+  height: auto !important;
+  margin-bottom: 10%;
+  transform: translateY(-75%);
+   width: 100% !important;
+}
+
+
+ .swipe-hint {
+  color: #151515;
+  font-size: 3.5vw !important;
+  display: block !important;
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  bottom: 10%;
+ }
+
+
+}
