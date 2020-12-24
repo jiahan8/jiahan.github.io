@@ -13,6 +13,11 @@ h2 {
   font-family: 'SFfont', sans-serif; 
 }
 
+#my-app-badge{
+  height: 80px;
+  margin-top: -15px;
+}
+
 img {
   border: initial !important;
   /* no border */ 
